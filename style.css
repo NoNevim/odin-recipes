@@ -1,0 +1,28 @@
+
+h1 {
+    font-size: 80px;
+}
+
+.index {
+    background-color: rgb(168, 240, 154);
+
+}
+
+.lasane {
+    /*background-color: brown;*/
+    background-image: url("images/terminator.jpeg");
+    color: white;
+}
+
+.hranole {
+    background-color: rgb(130, 213, 228);
+
+}
+
+.humus {
+    background-color: rgb(243, 130, 243);
+
+
+}
+
+
